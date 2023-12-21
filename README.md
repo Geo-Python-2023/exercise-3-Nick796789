@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/dRmxu83c)
 # Exercise 3 - For loops and conditional statements (10 points)
 
 The exercise for this week is meant to help you to understand `for` loops and conditional statements in Python.
